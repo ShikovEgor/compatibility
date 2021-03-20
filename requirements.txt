@@ -1,0 +1,10 @@
+-i https://pypi.python.org/simple
+pandas
+numpy
+torch
+torchvision
+scikit-learn
+sentence-transformers
+
+	
+
